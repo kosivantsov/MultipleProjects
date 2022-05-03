@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.8.0_0_1c281de86" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>This is a very short file.</seg>
+      </tuv>
+      <tuv lang="uk" changeid="Kos Ivantsov" changedate="20220503T113345Z" creationid="Kos Ivantsov" creationdate="20220503T113345Z">
+        <seg>Це дуже короткий файл.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
